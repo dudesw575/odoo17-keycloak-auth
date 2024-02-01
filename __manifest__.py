@@ -5,6 +5,7 @@
     """,
     "version":"1.0",
     "author": "Dylan Neves",
+    "module_type": "official",
     "license": "AGPL-3",
     "category": "Technical Settings",
     "depends": ["base", "auth_oauth",],
